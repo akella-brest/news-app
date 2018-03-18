@@ -1,0 +1,17 @@
+.like-button button {
+    border: 0;
+    border-radius: 10px;
+    outline: 0;
+    background: rgb(157, 156, 166);
+    padding: .7em 1.5em;
+    margin: -7px;
+    cursor: pointer;
+}
+
+.like-button button:hover {
+    background: rgb(166, 165, 175);
+}
+
+.like-button button:active {
+    background: rgb(151, 150, 160);
+}
